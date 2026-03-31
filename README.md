@@ -16,32 +16,15 @@
 
 ## 🧰 Tecnologias & Ferramentas
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 15px;">
-  
-  <img alt="Python" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img alt="KivyMD" height="40" width="50"
-    src="https://raw.githubusercontent.com/kivymd/KivyMD/master/kivymd/images/logo/kivymd-icon.png">
-
-  <img alt="Flet" height="40" width="50"
-    src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
-
-  <img alt="HTML" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img alt="CSS" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img alt="JavaScript" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img alt="PHP" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
-  <img alt="SQL" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/kivymd/KivyMD/master/kivymd/images/logo/kivymd-icon.png" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" style="margin:10px"/>
 </div>
 
 ---
