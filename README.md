@@ -40,12 +40,13 @@
 
 --->
 
+<!--
 ## 🔥 Projetos em destaque
 
 ✨ Em breve vou destacar aqui meus melhores projetos!  
 👉 Confira todos os repositórios: [Clique aqui](https://github.com/valezzi?tab=repositories)
 
----
+--->
 
 ## 🌐 Contato
 
