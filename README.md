@@ -17,16 +17,29 @@
 ## 🧰 Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="KivyMD" height="30" width="40"
+    src="https://raw.githubusercontent.com/kivymd/KivyMD/master/kivymd/images/logo/kivymd-icon.png">
+  
+  <img align="center" alt="Flet" height="30" width="40"
+    src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
+  
   <img align="center" alt="HTML" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="CSS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" alt="JavaScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="PHP" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  <img align="center" alt="SQL" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
