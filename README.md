@@ -30,7 +30,7 @@
 </div>
 
 ---
-
+<!--
 ## 📈 Estatísticas
 
 <div align="center">
@@ -40,7 +40,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=valezzi&layout=compact&theme=tokyonight"/>
 </div>
 
----
+--->
 
 ## 🔥 Projetos em destaque
 
