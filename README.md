@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/kivymd/KivyMD/master/kivymd/images/logo/kivymd-icon.png" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/valezzi/valezzi/main/kivymd.png" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin:10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin:10px"/>
